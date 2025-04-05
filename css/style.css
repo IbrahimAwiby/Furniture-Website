@@ -1215,7 +1215,7 @@ section {
     top: -101%;
     left: 2%;
     right: 2.2%;
-    /* width: 100%; */
+    width: 98%;
     border-radius: 3rem 3rem 0.75rem 0.75rem;
     background: #ece0de;
   }
